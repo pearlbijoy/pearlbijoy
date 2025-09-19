@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Pearl 👋
 
-<!--
-**pearlbijoy/pearlbijoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student  
+💻 Exploring Python, SQL, and AI Machine Learning step by step  
+📚 Curious learner who also loves reading, sketching, and playing badminton  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m learning right now
+- Strengthening programming fundamentals  
+- Working on small projects (like *Culinary Compass*)  
+- Exploring AI/ML concepts and data structures  
+
+---
+
+### 🔧 Tech Stack
+- Languages: Python, SQL  
+- Tools: PyQt, Git/GitHub  
+- Interests: AI, Machine Learning, Data Science, Web Development  
+
+---
+
+### 📂 Featured Projects
+- [Culinary Compass](#) – A Python + SQL app with PyQt UI that suggests recipes and restaurant options  
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/pearl-bijoy-0a0062372/) | [pearlbijoy@gmail.com)  
