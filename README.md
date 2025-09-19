@@ -1,4 +1,4 @@
-# Hi there, I'm Pearl 
+# Hi there, I'm Pearl! ^-^
 
 🎓 B.Tech AI & ML Student  
 💻 Exploring Python, SQL, and AI & Machine Learning step by step  
