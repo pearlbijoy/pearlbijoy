@@ -1,7 +1,7 @@
-# Hi there, I'm Pearl 👋
+# Hi there, I'm Pearl 
 
 🎓 B.Tech AI & ML Student  
-💻 Exploring Python, SQL, and AI Machine Learning step by step  
+💻 Exploring Python, SQL, and AI & Machine Learning step by step  
 📚 Curious learner who also loves reading, sketching, and playing badminton  
 
 ---
