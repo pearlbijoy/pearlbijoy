@@ -21,7 +21,7 @@
 ---
 
 ### 📂 Featured Projects
-- [Culinary Compass](#) – A Python + SQL app with PyQt UI that suggests recipes and restaurant options  
+- [Culinary Compass](https://github.com/pearlbijoy/Culinary-Compass) – A Python + SQL app with PyQt UI that suggests recipes and restaurant options  
 
 ---
 
