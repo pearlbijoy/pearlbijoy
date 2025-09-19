@@ -26,4 +26,4 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/pearl-bijoy-0a0062372/) | [pearlbijoy@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/pearl-bijoy-0a0062372/) | [Email](pearlbijoy@gmail.com)  
