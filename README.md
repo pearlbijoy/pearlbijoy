@@ -1,22 +1,22 @@
-# Hi there, I'm Pearl! ^-^
+# Hi there, I'm Pearl! 
 
-🎓 B.Tech AI & ML Student  
-💻 Exploring Python, SQL, and AI & Machine Learning step by step  
-📚 Curious learner who also loves reading, sketching, and playing badminton  
+B.Tech AI & ML Student  
+Exploring Python, SQL, and AI & Machine Learning step by step  
+Curious learner who also loves reading, sketching, and playing badminton  
 
 ---
 
-### 🌱 What I’m learning right now
+###  What I’m learning right now
 - Strengthening programming fundamentals  
 - Working on small projects (like *Culinary Compass*)  
 - Exploring AI/ML concepts and data structures  
 
 ---
 
-### 🔧 Tech Stack
-- Languages: Python, SQL  
+### Tech Stack
+- Languages: Python, SQL, HTML  
 - Tools: PyQt, Git/GitHub  
-- Interests: AI, Machine Learning, Data Science, Web Development  
+- Interests: AI, Machine Learning, UI/UX, Web Development  
 
 ---
 
