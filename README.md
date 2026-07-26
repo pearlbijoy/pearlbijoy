@@ -1,22 +1,18 @@
-# Hi there, I'm Pearl! 
+# Pearl Bijoy
 
-B.Tech AI & ML Student  
-Curious learner who also loves reading, sketching, and playing badminton  
+B.Tech CS, AI/ML — 2nd year
 
----
+## Currently building
+- **HoverNav** — Chrome extension for hands-free browsing using webcam hand gestures (MediaPipe). Redesigned gesture detection from raw motion tracking to pose-transition detection after the first version was too jittery to use reliably.
+- **flick-n-fold** — rock-paper-scissors and handcricket game using MediaPipe hand gesture recognition.
+- Learning JavaScript, HTML/CSS through The Odin Project — building things from fundamentals up rather than skipping ahead.
 
-###  What I’m learning right now
-- Strengthening programming fundamentals, currently working on Javascript  
-- Working on small projects   
-- Exploring AI/ML concepts and data structures  
+## Past work
+- **ShelterIQ** — disaster response dashboard built with a team of 3 for a hackathon. Built the damage assessment module: photo classification via MobileNetV2, ranked by severity.
+- **Culinary Compass** — recipe management desktop app (PyQt5 + MySQL), built in 12th grade. Currently planning a full web rebuild (Flask + JS).
 
----
+## Stack
+Python · SQL · C · JavaScript (learning) · PyQt5 · Git/GitHub · HTML · MediaPipe
 
-### Tech Stack
-- Languages: Python, SQL, HTML, CSS, C  
-- Tools: PyQt, Git/GitHub, VSCode  
-- Interests: AI, Machine Learning, UI/UX, Web Development  
----
-
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/pearl-bijoy-0a0062372/) | [Email](pearlbijoy@gmail.com)  
+## Find me
+[LinkedIn](https://www.linkedin.com/in/pearl-bijoy-0a0062372/) 
